@@ -1,3 +1,5 @@
+To Run this project first you need to install XAMPP and also wordpress and then start APACHE server and MYSQL 
+
 # Gym-Website
 Created an attractive one page Gym website
 
